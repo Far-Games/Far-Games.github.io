@@ -1,4 +1,3 @@
-# Far Games Homepage
 ## What these guys do?
 ```
 We make Android games
